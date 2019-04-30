@@ -1,0 +1,4 @@
+com\gumtree\address\book\service\AddressBookKPITest.class
+com\gumtree\address\book\service\AddressBookServiceImplTest.class
+com\gumtree\address\book\model\AddressBookTest.class
+com\gumtree\address\book\utils\HelperTest.class
